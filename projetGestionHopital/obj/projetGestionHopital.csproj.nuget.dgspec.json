@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Acer_\\OneDrive\\Desktop\\PORTFOLIOO\\projetFinal0 1\\projetFinal0\\projetGestionHopital\\projetGestionHopital.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Acer_\\OneDrive\\Desktop\\PORTFOLIOO\\projetFinal0 1\\projetFinal0\\projetGestionHopital\\projetGestionHopital.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Acer_\\OneDrive\\Desktop\\PORTFOLIOO\\projetFinal0 1\\projetFinal0\\projetGestionHopital\\projetGestionHopital.csproj",
+        "projectName": "projetGestionHopital",
+        "projectPath": "C:\\Users\\Acer_\\OneDrive\\Desktop\\PORTFOLIOO\\projetFinal0 1\\projetFinal0\\projetGestionHopital\\projetGestionHopital.csproj",
+        "packagesPath": "C:\\Users\\Acer_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer_\\OneDrive\\Desktop\\PORTFOLIOO\\projetFinal0 1\\projetFinal0\\projetGestionHopital\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Acer_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

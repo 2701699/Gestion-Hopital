@@ -1,0 +1,126 @@
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.exe
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.deps.json
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.runtimeconfig.json
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.dll
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.pdb
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital_MarkupCompile.cache
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital_MarkupCompile.lref
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.g.resources
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.AssemblyInfoInputs.cache
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.AssemblyInfo.cs
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.dll
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\refint\projetGestionHopital.dll
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.pdb
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.genruntimeconfig.cache
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\ref\projetGestionHopital.dll
+C:\Users\LENOVO X260\source\repos\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\App.baml
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.exe
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.deps.json
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.runtimeconfig.json
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.dll
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.pdb
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital_MarkupCompile.cache
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital_MarkupCompile.lref
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\App.baml
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.g.resources
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.AssemblyInfo.cs
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.dll
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\refint\projetGestionHopital.dll
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.pdb
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.genruntimeconfig.cache
+C:\Users\Admin\Desktop\projetGestionHopital\projetGestionHopital\projetGestionHopital\obj\Debug\net6.0-windows\ref\projetGestionHopital.dll
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.exe
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.deps.json
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.runtimeconfig.json
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.dll
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.pdb
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital_MarkupCompile.cache
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital_MarkupCompile.lref
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\App.baml
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.g.resources
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.AssemblyInfoInputs.cache
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.AssemblyInfo.cs
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.dll
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\refint\projetGestionHopital.dll
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.pdb
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.genruntimeconfig.cache
+C:\Users\LENOVO X260\Desktop\ABS2\projetGestionHopital\obj\Debug\net6.0-windows\ref\projetGestionHopital.dll
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.exe
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.deps.json
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.runtimeconfig.json
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.dll
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.pdb
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital_MarkupCompile.cache
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital_MarkupCompile.lref
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\App.baml
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.g.resources
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.AssemblyInfoInputs.cache
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.AssemblyInfo.cs
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.dll
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\refint\projetGestionHopital.dll
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.pdb
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.genruntimeconfig.cache
+C:\Users\LENOVO X260\Desktop\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\ref\projetGestionHopital.dll
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.exe
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.deps.json
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.runtimeconfig.json
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.dll
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.pdb
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital_MarkupCompile.cache
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital_MarkupCompile.lref
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\App.baml
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.g.resources
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.AssemblyInfo.cs
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.dll
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\refint\projetGestionHopital.dll
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.pdb
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.genruntimeconfig.cache
+C:\Users\Admin\Desktop\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\ref\projetGestionHopital.dll
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.exe
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.deps.json
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.runtimeconfig.json
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.dll
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\bin\Debug\net6.0-windows\projetGestionHopital.pdb
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital_MarkupCompile.cache
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital_MarkupCompile.lref
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\App.baml
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.g.resources
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.AssemblyInfoInputs.cache
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.AssemblyInfo.cs
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.csproj.CoreCompileInputs.cache
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.dll
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\refint\projetGestionHopital.dll
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.pdb
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\projetGestionHopital.genruntimeconfig.cache
+C:\Users\Acer_\OneDrive\Desktop\PORTFOLIOO\projetFinal0 1\projetFinal0\projetGestionHopital\obj\Debug\net6.0-windows\ref\projetGestionHopital.dll

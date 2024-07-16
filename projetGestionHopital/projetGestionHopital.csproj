@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="close.png" />
+    <None Remove="consultation.png" />
+    <None Remove="médecin.png" />
+    <None Remove="reset.png" />
+    <None Remove="specialite.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="close.png" />
+    <Resource Include="consultation.png" />
+    <Resource Include="médecin.png" />
+    <Resource Include="reset.png" />
+    <Resource Include="specialite.png" />
+  </ItemGroup>
+
+</Project>
